@@ -1,0 +1,1 @@
+{"uuid":"dd65af72-2120-4be9-bd41-657ab79b6b00","name":"Tests.CaptureScreenshots.setUp","children":["4f9c6c14-3889-42ed-a134-2c5fc724ad6a"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734439782418,"stop":1734439785256}],"afters":[],"start":1734439782418,"stop":1734439785257}
